@@ -1,0 +1,5 @@
+﻿  main_file.cpp
+C:\Users\Rafal\Desktop\Grafika komputerowa\Assimp\bio_szkielet_06_win\main_file.cpp(26,10): fatal error C1083: Cannot open include file: 'assimp/Importer.hpp': No such file or directory
+  shaderprogram.cpp
+C:\Users\Rafal\Desktop\Grafika komputerowa\Assimp\bio_szkielet_06_win\shaderprogram.cpp(38,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...

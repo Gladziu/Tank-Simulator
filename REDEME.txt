@@ -1,0 +1,9 @@
+Sterowanie:
+
+W,A,S,D - klawisze do poruszania czołgiem
+
+Q,E - klawisze do obracania wieżą
+
+R,F - klawisze do podnoszenia i opuszczania lufy
+
+SPACE - wystrzał
