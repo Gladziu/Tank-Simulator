@@ -1,5 +1,5 @@
 ## Tank Simulator
-University project made in opengl and cpp.
+Simple university project made in opengl and cpp.
 
 
 ## Setup
@@ -7,11 +7,10 @@ To run this project, open the .sln file.
 
  
 ## Controls
-```
-W A S D 
-```
-movement
+`W` `A` `S` `D` - movement
+`Q` `E` - turret roate left and right
+`R` `F` - gun rotate up and down
+`SPACE` - shot
 
-```
-SPACE
-```
+`<` `/\` `\/` `>` - camera movement
+`Page Up` `Page Down` - zoom in, zoom out
