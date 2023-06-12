@@ -16,6 +16,6 @@ To run this project, open the .sln file.
 `SPACE` - shot
 
 
-&uarr;↑, &darr;↓, &larr;←, &rarr; - camera movement
+&uarr; &darr; &larr; &rarr; - camera movement
 
 `Page Up` `Page Down` - zoom in, zoom out
