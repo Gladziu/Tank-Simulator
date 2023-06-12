@@ -20,4 +20,4 @@ To run this project, open the .sln file.
 
 `Page Up` `Page Down` - zoom in, zoom out
 
-![Uploading Screenshot (72).png…]()
+![alt text](https://github.com/Gladziu/tank-simulator/edit/master/Screenshot (72).png?raw=true)
