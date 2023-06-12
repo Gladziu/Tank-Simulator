@@ -1,5 +1,3 @@
-//TODO: acpect ratio = width/hight ; cofanie poprawne ; brak mozliwsoci opuszczenia kamery pod teren
-//TODO: poruszac wieza i lufa, system czastek, poprawne swiatlo
 
 /*
 Niniejszy program jest wolnym oprogramowaniem; możesz go
