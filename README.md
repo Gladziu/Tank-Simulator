@@ -23,4 +23,4 @@ To run this project, open the .sln file.
 
 
 
-![alt text](https://github.com/Gladziu/tank-simulator/edit/master/ScreenshotTank.png?raw=true)
+![alt text](https://github.com/Gladziu/tank-simulator/blob/05b430e286e8ec9c778518431a46d4de39ebc8c1/ScreenshotTank.png?raw=true)
